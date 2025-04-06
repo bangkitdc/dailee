@@ -1,0 +1,6 @@
+[submodule "dailee-fe"]
+	path = dailee-fe
+	url = https://github.com/bangkitdc/dailee-fe
+[submodule "dailee-be"]
+	path = dailee-be
+	url = https://github.com/bangkitdc/dailee-be
